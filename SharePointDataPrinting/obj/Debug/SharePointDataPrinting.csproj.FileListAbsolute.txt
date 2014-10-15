@@ -1,0 +1,13 @@
+D:\Makaleler\makale19\SharePointDataPrinting\SharePointDataPrinting\bin\Debug\SharePointDataPrinting.exe.config
+D:\Makaleler\makale19\SharePointDataPrinting\SharePointDataPrinting\obj\Debug\SharePointDataPrinting.csprojResolveAssemblyReference.cache
+D:\Makaleler\makale19\SharePointDataPrinting\SharePointDataPrinting\obj\Debug\SharePointDataPrinting.Form1.resources
+D:\Makaleler\makale19\SharePointDataPrinting\SharePointDataPrinting\obj\Debug\SharePointDataPrinting.Properties.Resources.resources
+D:\Makaleler\makale19\SharePointDataPrinting\SharePointDataPrinting\obj\Debug\SharePointDataPrinting.csproj.GenerateResource.Cache
+D:\Makaleler\makale19\SharePointDataPrinting\SharePointDataPrinting\bin\Debug\SharePointDataPrinting.exe
+D:\Makaleler\makale19\SharePointDataPrinting\SharePointDataPrinting\bin\Debug\SharePointDataPrinting.pdb
+D:\Makaleler\makale19\SharePointDataPrinting\SharePointDataPrinting\obj\Debug\SharePointDataPrinting.exe
+D:\Makaleler\makale19\SharePointDataPrinting\SharePointDataPrinting\obj\Debug\SharePointDataPrinting.pdb
+D:\Makaleler\makale19\SharePointDataPrinting\SharePointDataPrinting\obj\Debug\SharePointDataPrinting.exe.licenses
+D:\Makaleler\makale19\SharePointDataPrinting\SharePointDataPrinting\bin\Debug\Newtonsoft.Json.dll
+D:\Makaleler\makale19\SharePointDataPrinting\SharePointDataPrinting\bin\Debug\Newtonsoft.Json.xml
+D:\Makaleler\makale19\SharePointDataPrinting\SharePointDataPrinting\obj\Debug\SharePointDataPrinting.XtraReport1.resources
