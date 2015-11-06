@@ -8,7 +8,7 @@ Sharepoint içerisindeki listelere erişir ve bu listelere ait öğeleri Devexpr
 
 Bu kod 
 
-....
+http://www.cozumpark.com/blogs/sharepoint/archive/2014/10/26/sharepoint-2013-external-olarak-c-listelerine-erisim-ve-yazdirma.aspx
 
 adresindeki yazının source kodudur. Örnek amaçlıdır. 
 
